@@ -1,0 +1,5 @@
+name: PumpkinCommandUtil
+version: '${project.version}'
+main: pl.imbestpumpkin.pumpkincommandutil.PumpkinCommandUtil
+api-version: '1.21'
+load: STARTUP
